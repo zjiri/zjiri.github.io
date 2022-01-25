@@ -4,7 +4,7 @@ Hello! I'm game dev student at KAMK – University of Applied Sciences. I focus 
 
 ## Skills
 
-### LANGUAGES	ENGINES / FRAMEWORKS
+### LANGUAGES	/ ENGINES & FRAMEWORKS
 
 C# / **Unity**
 
