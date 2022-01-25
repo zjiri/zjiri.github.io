@@ -8,15 +8,14 @@ Hello! I'm game dev student at KAMK – University of Applied Sciences. I focus 
 
 C# / **Unity**
 
-Dart / **Unreal**
+C++ / **Unreal**
 
-C++ / **Flutter**
+Dart / **Flutter**
 
 JAVA / **Git & Github**
 
 HTML
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
