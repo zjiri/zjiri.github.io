@@ -30,7 +30,7 @@ Horror game set in Lapland where you need to find your car keys and get to the c
 
 
 <a href= "https://grayscal3.itch.io/blob-frog-the-fisherman">
-<img width="374" alt="Screenshot 2022-01-25 035018" src="https://user-images.githubusercontent.com/18169459/150895799-f1f184ab-979f-4616-b0a3-305ab6ee30d7.png">
+<img width="960" alt="Screenshot 2022-01-25 035018" src="https://user-images.githubusercontent.com/18169459/150895799-f1f184ab-979f-4616-b0a3-305ab6ee30d7.png">
 </a>
 ### Blob Frog the fisherman
 Casual fishing for mobile you play as the Blob Frog the Fisherman in a post-nuclear war world. Where humans have nuked each other so it’s up to Blob Frog to clean up the waters from trash and save his friends. My role was doing a shop for upgrades, UI and adding monetizing system where you can get more inventory space when watching an add.
