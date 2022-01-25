@@ -2,6 +2,8 @@
 
 Hello! I'm game dev student at KAMK – University of Applied Sciences. I focus on programming, but I also help on other stuff to best of my abilities.
 
+<a href="mailto:jiri.saarinen@gmail.com">Get in touch jiri.saarinen@gmail.com</a>
+
 ## Skills
 
 ### LANGUAGES	/ ENGINES & FRAMEWORKS
