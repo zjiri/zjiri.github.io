@@ -6,7 +6,7 @@ Hello! I'm game dev student at KAMK – University of Applied Sciences. I focus 
 
 ### LANGUAGES	ENGINES / FRAMEWORKS
 
-C#		        **Unity**
+C#            **Unity**
 
 Dart		      **Unreal**
 
