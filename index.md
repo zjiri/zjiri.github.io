@@ -6,13 +6,13 @@ Hello! I'm game dev student at KAMK – University of Applied Sciences. I focus 
 
 ### LANGUAGES	ENGINES / FRAMEWORKS
 
-C#		Unity
+C#		        **Unity**
 
-Dart		Unreal
+Dart		      **Unreal**
 
-C++		Flutter
+C++		        **Flutter**
 
-JAVA		Git & Github / GitLab
+JAVA		      **Git & Github / GitLab**
 
 HTML
 
