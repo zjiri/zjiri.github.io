@@ -17,30 +17,10 @@ JAVA / **Git & Github**
 HTML
 
 
-```markdown
-Syntax highlighted code block
+## Featured Projects
 
-# Header 1
-## Header 2
-### Header 3
+SURMA
 
-- Bulleted
-- List
+<img width="960" alt="Screenshot 2022-01-25 033304" src="https://user-images.githubusercontent.com/18169459/150894115-8e3795de-c93d-4a16-a9c9-01cc4d61c2c3.png">
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zjiri/zjiri.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+School project. Horror game set in Lapland where you need to find your car keys and get to the car to win made with unity. My responsibilities were player controllers, git and code lead meaning I helped my fellow students with all problems regarding coding, git, unity and helping design gameplay so that programmers had enough time to work on their responsibilities before adding more. 
