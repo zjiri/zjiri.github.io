@@ -12,7 +12,7 @@ Dart / **Unreal**
 
 C++ / **Flutter**
 
-JAVA / **Git & Github / GitLab**
+JAVA / **Git & Github**
 
 HTML
 
