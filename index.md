@@ -2,7 +2,14 @@
 
 Hello! I'm game dev student at KAMK – University of Applied Sciences. I focus on programming, but I also help on other stuff to best of my abilities.
 
-### Markdown
+### Skills
+
+#LANGUAGES	ENGINES / FRAMEWORKS
+C#		Unity
+Dart		Unreal
+C++		Flutter
+JAVA		Git & Github / GitLab
+HTML
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
