@@ -10,9 +10,9 @@ C#		        **Unity**
 
 Dart		      **Unreal**
 
-C++		        **Flutter**
+C++          **Flutter**
 
-JAVA		      **Git & Github / GitLab**
+JAVA        **Git & Github / GitLab**
 
 HTML
 
