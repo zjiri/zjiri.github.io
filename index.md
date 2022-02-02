@@ -19,7 +19,7 @@ JAVA / **Git & Github**
 HTML
 
 
-## Featured Projects
+## Featured Projects (Click images for link)
 
 
 <a href= "https://zjiri.itch.io/surma">
